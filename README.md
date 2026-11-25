@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hola, soy Jorge Aguado 👋
 
-<!--
-**JorgeAguado1/JorgeAguado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de 2.º de ASIR** (Administración de Sistemas Informáticos en Red) en U-tad, con especial interés en **automatización y ciberseguridad**.
+Estoy buscando **prácticas** donde aplicar lo que he aprendido, seguir formándome y crecer profesionalmente.
 
-Here are some ideas to get you started:
+📍 Las Rozas de Madrid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🎓 Formación
+
+| Periodo | Estudios | Centro |
+|---|---|---|
+| 09/2025 – en curso | Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) | U-tad, Centro Universitario de Tecnología y Arte Digital |
+| 09/2022 – 06/2025 | Bachillerato Científico-Tecnológico | Centro Educativo Punta Galea, Las Rozas |
+
+---
+
+## 🛠️ Conocimientos técnicos
+
+| Área | Con qué trabajo |
+|---|---|
+| **Sistemas** | Windows, Windows Server y Linux |
+| **Redes** | TCP/IP, DNS y DHCP |
+| **Seguridad y administración** | Active Directory, directivas GPO, permisos de acceso y reglas de firewall |
+| **Virtualización** | VirtualBox y Vagrant |
+| **Automatización y scripting** | Python, n8n, PowerShell y Bash |
+
+> Todo esto lo practico en entornos virtualizados (laboratorios de clase y proyectos propios). Sigo aprendiendo cada día.
+
+---
+
+## 🎯 Áreas de interés
+
+- ⚙️ **Automatización de procesos**: conectar herramientas y quitar tareas repetitivas con Python y n8n.
+- 🔐 **Ciberseguridad**: permisos, firewalls y buenas prácticas en sistemas y redes.
+- 🖥️ **Administración de sistemas**: Windows Server, Linux y entornos de dominio.
+
+---
+
+## 🚀 Proyectos destacados
+
+> 🚧 Sección en construcción. Iré publicando aquí mis proyectos de ASIR y de automatización, con su documentación.
+
+<!-- Plantilla para cada proyecto (completar más adelante):
+### Nombre del proyecto
+- **Qué es:**
+- **Tecnologías:**
+- **Qué aprendí:**
+- **Enlace:**
 -->
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 Español: nativo
+- 🇬🇧 Inglés: B1 certificado (Cambridge) · B2 First: 158 puntos
+- 🇫🇷 Francés: básico conversacional
+
+---
+
+## 🤝 Otras experiencias
+
+- **Proyecto de radio universitario** (U-tad, abril–mayo 2026): preparación y realización de programas de radio en equipo.
+- **Voluntariado en Rozas Joven** (octubre 2024 – mayo 2025): actividades de inclusión social y atención al público.
+
+---
+
+## 📫 Contacto
+
+Puedes encontrarme en [GitHub](https://github.com/JorgeAguado1) y en LinkedIn.
