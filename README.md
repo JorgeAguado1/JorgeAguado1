@@ -3,7 +3,7 @@
 **Estudiante de 2.º de ASIR** (Administración de Sistemas Informáticos en Red) en U-tad.
 Busco unas prácticas donde aplicar mis conocimientos, seguir aprendiendo y crecer profesionalmente.
 
-**[Ver portfolio](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/)** · [Currículum web](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/cv/) · [LinkedIn](https://www.linkedin.com/in/jorge-aguado)
+**[Ver portfolio](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/)** · [Currículum web](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/cv/) · [LinkedIn](https://www.linkedin.com/in/jorge-aguado-rodr%C3%ADguez-rabad%C3%A1n-2b875238a)
 
 ---
 
@@ -43,4 +43,4 @@ Español (nativo) · Inglés (B1 certificado por Cambridge; B2 First: 158 puntos
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/jorge-aguado) · [Portfolio](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/)
+[LinkedIn](https://www.linkedin.com/in/jorge-aguado-rodr%C3%ADguez-rabad%C3%A1n-2b875238a) · [Portfolio](https://jorgeaguado1.github.io/asir-lamp-webs-estaticas/)
