@@ -26,15 +26,15 @@ Estoy buscando **prácticas** donde aplicar lo que he aprendido, seguir formánd
 | **Virtualización** | VirtualBox y Vagrant |
 | **Automatización y scripting** | Python, n8n, PowerShell y Bash |
 
-> Todo esto lo practico en entornos virtualizados (laboratorios de clase y proyectos propios). Sigo aprendiendo cada día.
+> La parte de sistemas y seguridad (Windows Server, Linux, Active Directory, GPO, permisos y firewall) la he trabajado en **entornos virtualizados**, en proyectos académicos de ASIR. Python y n8n los uso en **proyectos personales**.
 
 ---
 
 ## 🎯 Áreas de interés
 
-- ⚙️ **Automatización de procesos**: conectar herramientas y quitar tareas repetitivas con Python y n8n.
-- 🔐 **Ciberseguridad**: permisos, firewalls y buenas prácticas en sistemas y redes.
-- 🖥️ **Administración de sistemas**: Windows Server, Linux y entornos de dominio.
+- ⚙️ **Automatización de procesos**, con Python y n8n.
+- 🔐 **Ciberseguridad**, en sistemas y redes.
+- 🖥️ **Administración de sistemas**: Windows Server y Linux.
 
 ---
 
